@@ -20,9 +20,9 @@
 ```mermaid
 gantt
     title Certificate Management Implementation Roadmap
-    dateFormat  YYYY-MM-DD
+    dateFormat  DD-MM-YYYY
     section Phase 1 - Foundation
-    Environment Setup           :a1, 2024-01-01, 5d
+    Environment Setup           :a1, 01-06-2025, 5d
     Repository Structure        :a2, after a1, 3d
     Basic Scripts              :a3, after a2, 5d
     Dev Environment Testing    :a4, after a3, 3d
